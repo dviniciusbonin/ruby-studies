@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD ruby ./main.rb
+CMD ruby ./src/main.rb
